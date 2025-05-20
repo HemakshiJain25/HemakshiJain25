@@ -20,7 +20,7 @@
 - 💭 Ask me about **PyTorch, TensorFlow, CNNs, Vision Transformers, and ML pipelines**  
 - 👨‍💻 All of my projects are available at [https://github.com/HemakshiJain25](https://github.com/HemakshiJain25)  
 - 📫 Reach me at **hemakshijain23026@gmail.com**  
-- ⚡ Fun fact: I can explain CNNs better than directions to my house. ☕  
+- ⚡ Fun fact: I can explain CNNs better than directions to my house.  
 
     </td>
   
