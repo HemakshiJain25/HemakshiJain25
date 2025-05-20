@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Hemakshi Jain</h1>
+<h1 align="center">Hi 👋, I'm Hemakshi Jain</h1>
 <h3 align="center">AI/ML Enthusiast | BTech @ MNIT Jaipur | Pixels to Predictions Enthusiast</h3>
 
 <p align="center">
