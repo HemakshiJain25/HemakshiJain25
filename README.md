@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **AI agents,deep learning,computer vision projects**  
 - 🌱 I’m learning **Generative AI, multimodal transformers, and optimization tricks**  
-- 💭 Ask me about **PyTorch, TensorFlow, CNNs, Vision Transformers, and ML pipelines**  
+- 💭 Ask me about **PyTorch, TensorFlow, CNNs, Vision Transformers, and RAG pipeling**  
 - 👨‍💻 All of my projects are available at [https://github.com/HemakshiJain25](https://github.com/HemakshiJain25)  
 - 📫 Reach me at **hemakshijain23026@gmail.com**  
 - ⚡ Fun fact: I can explain CNNs better than directions to my house.  
@@ -94,6 +94,11 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/ width="200">
   </a>
 </p>
+
+
+
+
+
 
 
 
