@@ -19,7 +19,7 @@
 - 🌱 I’m learning **Generative AI, multimodal transformers, and optimization tricks**  
 - 💭 Ask me about **PyTorch, TensorFlow, CNNs, Vision Transformers, and ML pipelines**  
 - 👨‍💻 All of my projects are available at [https://github.com/HemakshiJain25](https://github.com/HemakshiJain25)  
-- 📫 Reach me at **hemakshijain2302@gmail.com**  
+- 📫 Reach me at **hemakshijain23026@gmail.com**  
 - ⚡ Fun fact: I can explain CNNs better than directions to my house. ☕  
 
     </td>
@@ -84,10 +84,10 @@
 ### 🎯 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hemakshi/">
+  <a href="https://www.linkedin.com/in/hemakshijain/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:hemakshijain2302@gmail.com">
+  <a href="mailto:www.gmail.com/hemakshijain2302@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.instagram.com/hemakshi_jain/">
