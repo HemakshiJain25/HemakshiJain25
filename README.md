@@ -1,34 +1,63 @@
 <h1 align="center">Hi 👋, I'm Hemakshi Jain</h1>
-<h3 align="center">AI/ML Enthusiast | BTech @ MNIT Jaipur | Pixels to Predictions Enthusiast</h3>
+<h3 align="center">AI/ML Enthusiast | BTech @ MNIT Jaipur | Crafting Intelligence with Code</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Stylish AI Developer GIF"/>
-</p>
+
+
+
+
+
+
+
+
+---
+
+<table>
+  <tr>
+    <td>
+
+- 🔭 I’m currently working on **AI agents,deep learning,computer vision projects**  
+- 🌱 I’m learning **Generative AI, multimodal transformers, and optimization tricks**  
+- 💭 Ask me about **PyTorch, TensorFlow, CNNs, Vision Transformers, and ML pipelines**  
+- 👨‍💻 All of my projects are available at [https://github.com/HemakshiJain25](https://github.com/HemakshiJain25)  
+- 📫 Reach me at **hemakshijain2302@gmail.com**  
+- ⚡ Fun fact: I can explain CNNs better than directions to my house. ☕  
+
+    </td>
+  
+    <td>
+ <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="AI Neural Network Animation"/>
+    </td>
+  </tr>
+</table>
 
 
 ---
 
-- 🔭 I’m currently working on **deep learning and computer vision projects**
-- 🌱 I’m learning **Generative AI, multimodal transformers, and optimization tricks**
-- 💬 Ask me about **PyTorch, TensorFlow, CNNs, Vision Transformers, and ML pipelines**
-- 👨‍💻 All of my projects are available at [https://github.com/HemakshiJain25](https://github.com/HemakshiJain25)
-- 📫 Reach me at **hemakshijain2302@gmail.com**
-- ⚡Fun fact: I can explain CNNs better than directions to my house. ☕
 
----
 
 ### 🧠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradio-FF4F81?style=for-the-badge&logo=gradio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+</p>
+ 
+
+
 
 ---
 
@@ -50,22 +79,24 @@
 
 ---
 
-### 📈 Languages I Use Often
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
 
 
 ### 🎯 Let's Connect!
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/hemakshi/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/></a>
-  <a href="mailto:hemakshijain2302@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/hemakshi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hemakshijain2302@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/hemakshi_jain/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
+
 
 
 ---
 
 ⭐️ From [Hemakshi Jain](https://github.com/HemakshiJain25)
-
