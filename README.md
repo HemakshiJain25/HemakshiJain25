@@ -87,10 +87,10 @@
   <a href="https://www.linkedin.com/in/hemakshijain/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:www.gmail.com/hemakshijain2302@gmail.com">
+  <a href="https://www.gmail.com/hemakshijain2302@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.instagram.com/hemakshi_jain/">
+  <a href="https://www.instagram.com/hema_akshi_25/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
