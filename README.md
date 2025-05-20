@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemakshi Jain</h1>
-<h3 align="center">AI/ML Enthusiast | BTech @ MNIT Jaipur | Crafting Intelligence with Code</h3>
+<h3 align="center">AI/ML Enthusiast | BTech @ MNIT Jaipur | Where Code Meets Cognition</h3>
 
 
 
