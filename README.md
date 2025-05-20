@@ -2,8 +2,9 @@
 <h3 align="center">AI/ML Enthusiast | BTech @ MNIT Jaipur | Pixels to Predictions Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="AI Developer GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Stylish AI Developer GIF"/>
 </p>
+
 
 ---
 
