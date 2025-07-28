@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemakshi Jain</h1>
-<h3 align="center">AI/ML Enthusiast | BTech @ MNIT Jaipur | Where Code Meets Cognition</h3>
+<h3 align="center">AI/ML Enthusiast | BTech @ MNIT Jaipur </h3>
 
 
 
@@ -17,10 +17,10 @@
 
 - 🔭 I’m currently working on **AI agents,deep learning,computer vision projects**  
 - 🌱 I’m learning **Generative AI, multimodal transformers, and optimization tricks**  
-- 💭 Ask me about **PyTorch, TensorFlow, CNNs, Vision Transformers, and RAG pipeling**  
+ 
 - 👨‍💻 All of my projects are available at [https://github.com/HemakshiJain25](https://github.com/HemakshiJain25)  
 - 📫 Reach me at **hemakshijain23026@gmail.com**  
-- ⚡ Fun fact: I can explain CNNs better than directions to my house.  
+ 
 
     </td>
   
