@@ -9,29 +9,7 @@
 
 
 
----
 
-<table>
-  <tr>
-    <td>
-
-- 🔭 I’m currently working on **AI agents,deep learning,computer vision projects**  
-- 🌱 I’m learning **Generative AI, multimodal transformers, and optimization tricks**  
- 
-- 👨‍💻 All of my projects are available at [https://github.com/HemakshiJain25](https://github.com/HemakshiJain25)  
-- 📫 Reach me at **hemakshijain23026@gmail.com**  
- 
-
-    </td>
-  
-    <td>
- <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="AI Neural Network Animation"/>
-    </td>
-  </tr>
-</table>
-
-
----
 
 
 
